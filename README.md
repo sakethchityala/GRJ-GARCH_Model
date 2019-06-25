@@ -15,3 +15,7 @@ To estimate the parameters, it is necessary to:
 1. Produce some starting values
 2. Estimate the parameters using (quasi-) maximum likelihood (QML)
 3. Compute standard errors using a “sandwich” covariance estimator
+
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
